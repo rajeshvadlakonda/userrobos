@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rajeshvadlakonda/userrobos/static/css/main.8f11e1c4.chunk.css",
+    "main.js": "/rajeshvadlakonda/userrobos/static/js/main.41637fff.chunk.js",
+    "main.js.map": "/rajeshvadlakonda/userrobos/static/js/main.41637fff.chunk.js.map",
+    "runtime-main.js": "/rajeshvadlakonda/userrobos/static/js/runtime-main.05c14c8a.js",
+    "runtime-main.js.map": "/rajeshvadlakonda/userrobos/static/js/runtime-main.05c14c8a.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/rajeshvadlakonda/userrobos/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.dc5b3679.chunk.js": "/rajeshvadlakonda/userrobos/static/js/2.dc5b3679.chunk.js",
+    "static/js/2.dc5b3679.chunk.js.map": "/rajeshvadlakonda/userrobos/static/js/2.dc5b3679.chunk.js.map",
+    "static/js/3.8cd20c90.chunk.js": "/rajeshvadlakonda/userrobos/static/js/3.8cd20c90.chunk.js",
+    "static/js/3.8cd20c90.chunk.js.map": "/rajeshvadlakonda/userrobos/static/js/3.8cd20c90.chunk.js.map",
+    "index.html": "/rajeshvadlakonda/userrobos/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/rajeshvadlakonda/userrobos/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.8f11e1c4.chunk.css.map": "/rajeshvadlakonda/userrobos/static/css/main.8f11e1c4.chunk.css.map",
+    "static/js/2.dc5b3679.chunk.js.LICENSE.txt": "/rajeshvadlakonda/userrobos/static/js/2.dc5b3679.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05c14c8a.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.dc5b3679.chunk.js",
+    "static/css/main.8f11e1c4.chunk.css",
+    "static/js/main.41637fff.chunk.js"
+  ]
+}
