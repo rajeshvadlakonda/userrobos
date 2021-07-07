@@ -1,5 +1,5 @@
-import { render } from '@testing-library/react';
-import React, { Component } from 'react';
+// import { render } from '@testing-library/react';
+import React from 'react';
 import Cardlist from '../components/CardList';
 import Scroll from '../components/Scroll';
 import Searchbox from '../components/Searchbox';
